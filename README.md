@@ -1,0 +1,2 @@
+# fluid-mechanics
+Fluid mechanics inside a microfluidic rectangular channel with the coordinate system placed in the center of the channel (half width and half height). The center has coordenates (0, 0, 0). The  𝑥  axis is the direction of the flow inside the channel. The  𝑦  axis is change in width of the channel. The  𝑧  axis is the height of the channel. The  𝑥  and  𝑦  boundaries are defined as -width/2 <  𝑦  < width/2 and -height/2 <  𝑧  < height/2.
